@@ -1,0 +1,117 @@
+body{
+	margin:0;
+	padding:0;
+	font-family: 'Titillium Web', sans-serif;
+}
+#navigation
+{
+background:#292929;
+margin-bottom:5px;
+border-bottom:2px solid #07a1f2;
+position:fixed;
+z-index:1000;
+}
+#navigation img{
+width:218px;
+margin-top:10px;
+}
+#logo{
+	padding:0;
+	margin:0;
+}
+#navigation form{
+float:right;
+margin-top:8px;}
+#nav
+{
+	float:right;
+
+}
+#nav a{
+color:#fff;}
+#nav a:link{
+	color:#fff;
+}
+#nav a:visited{
+background:#07a1f2;}
+#nav a:hover{
+background:#07a1f2;
+color:#fff;
+}
+#nav a:active{
+	color:#fff;
+	
+}
+#first{
+	margin:0;
+	padding:0;
+	top:55px;
+}
+#first_nav
+{
+	background-color:#292929;
+	margin:0;
+	padding:20px 0;
+	color:#fff;
+	border-right:2px solid #07a1f2;
+	height:800px;
+}
+#first_nav ul{
+	padding:0;
+	margin:0;
+	list-style:none;
+}
+#first_nav ul li{
+	text-decoration:none;
+	font-size:14pt;
+	text-align:right;
+	margin:6px;
+		
+}
+#first_nav ul li a{
+	text-decoration:none;
+	color:#fff;
+	transition:all 0.2s ease;
+	
+}
+#first_nav ul li a:hover{
+	color:#07a1f2;
+	margin-right:3px;
+}
+#first_main{
+padding:20px;}
+#first_said
+{
+	background-color:#07a1f2;
+	margin:0;
+	color:#fff;
+	border-left:2px solid #07a1f2;
+	padding:20px;
+	position:fixed;
+	right:0;
+	top:55px;
+}
+.content{
+	padding:3px 0;
+	margin:2px 0;
+}
+.content img{
+
+	height:200px;
+	margin:0 0 8px 8px;
+	padding:0 0 0px 0px;
+}
+.content button{
+	margin:0px;
+}
+#registration{
+	padding:10px;
+	border:1px solid #07a1f2;
+	margin-bottom:10px;
+}
+#search
+{
+	padding:10px 0;
+	margin-bottom:10px;
+	border-bottom:1px solid #07a1f2;
+}
